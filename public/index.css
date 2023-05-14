@@ -1,0 +1,4 @@
+/* This demonstrates that a static file is being server correctly by nginx  */
+body {
+    background-color: hotpink;
+}
